@@ -1,0 +1,1 @@
+# day-2-sql-pratice-question
